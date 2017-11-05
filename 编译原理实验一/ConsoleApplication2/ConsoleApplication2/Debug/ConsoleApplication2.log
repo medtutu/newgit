@@ -1,0 +1,4 @@
+﻿  ConsoleApplication2.cpp
+c:\users\lenovo\desktop\consoleapplication2\consoleapplication2\consoleapplication2.cpp(458): warning C4715: “change”: 不是所有的控件路径都返回值
+  ConsoleApplication2.vcxproj -> C:\Users\lenovo\Desktop\ConsoleApplication2\Debug\ConsoleApplication2.exe
+  ConsoleApplication2.vcxproj -> C:\Users\lenovo\Desktop\ConsoleApplication2\Debug\ConsoleApplication2.pdb (Full PDB)
